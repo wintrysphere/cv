@@ -1,0 +1,137 @@
+body{
+  color:#40514e;
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1{
+  color:#2fc4b2;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Tangerine', cursive;
+}
+
+h2{
+  font-weight: normal;;
+  color:#08d9d6;
+  font-size: 2.5rem;
+  font-family: 'Zilla Slab', serif;
+}
+
+h3{
+  color:#0d7377;
+  font-family: 'Zilla Slab', serif;
+}
+
+hr{
+  width:3%;
+  border-style:dotted none none;
+  border-color:grey;
+  border-width: 5px;
+  margin:50px auto;
+}
+
+.s-head{
+  color:#2fc4b2;
+}
+
+
+.top-container{
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+
+
+
+}
+.middle-container{
+  background-color: #edf4f2;
+
+}
+
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
+.bottom-container{
+  line-height: 2;
+  position:absolute;
+  background-color: #2fc4b2;
+  margin-bottom: 0;
+  width: 100%;
+
+
+
+}
+
+.contact-me{
+  width: 50%;
+  margin:0 auto;
+  line-height: 2;
+}
+
+.top-cloud{
+  position: absolute;
+  right:300px;
+  top:50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left:250px;
+  bottom:300px;
+}
+
+.dev-img{
+  width:25%;
+  float: left;
+  margin-right: 30px;
+}
+.game-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.btn {
+  background-color: #2fc4b2;
+  border: none;
+  border-radius: 8px;
+  color: #edf4f2;
+  padding: 6px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-bottom:25px;
+  font-family: 'Zilla Slab', serif;
+}
+.btn:hover{
+  background-color:#16817a;
+}
+
+.footer-link{
+  margin-top: 50px;
+  color:#16817a;
+  text-decoration: none;
+  line-height: 4;
+  padding:20px;
+
+}
+.attribution{
+  font-size: 0.8rem;
+  color:#16817a;
+}
+.atr-link{
+  text-decoration: none;
+  color:#6639a6;
+}
+
+.copyright{
+  color:#edf4f2;
+  font-size: 0.9em;
+}
